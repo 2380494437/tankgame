@@ -1,0 +1,14 @@
+命令行进入当前目录
+编译：javac game/*.java enemyai/*.java
+运行：java -cp . game.SimpleGame
+
+主入口：game.SimpleGame
+队友AI：game.Ally
+子弹类：game.Bullet
+
+敌人AI：Enemyai.Enemy
+敌人AI核心类：Enemyai.EnemyManager
+敌人AI子弹类：Enemyai.EnemyBullet
+
+QQ2380494437
+QQ群675644084
